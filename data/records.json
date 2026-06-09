@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-08T12:12:16.205139Z",
+  "fetched_at": "2026-06-09T10:45:09.474808Z",
   "source": "Tarrant County Clerk",
   "date_range": {
-    "start": "2026-06-01",
-    "end": "2026-06-08"
+    "start": "2026-06-02",
+    "end": "2026-06-09"
   },
   "total": 0,
   "with_address": 0,
